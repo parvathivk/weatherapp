@@ -1,0 +1,41 @@
+body{
+    background-image: url(./img/pathway-gdeb8ca5dd_1920.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.heading{
+    text-align: center;
+    color: rgb(1, 88, 69);
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+}
+
+.card_section{
+    border: 2px solid rgb(0, 0, 0);
+    margin-top: 6%;
+    padding: 2%;
+    border-radius: 50px;
+    color: rgb(66, 117, 96);
+}
+
+.search_box{
+    border: none;
+    outline: none;
+    padding: 4%;
+    border-radius: 20px;
+}
+
+.search_button{
+    height: 4px;
+    width: 4px;
+    border-radius: 50%;
+    border: none;
+}
+
+.city{
+    margin-top: 20px;
+}
